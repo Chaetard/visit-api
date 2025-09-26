@@ -103,6 +103,7 @@ die () {
 } >&2
 
 # OS specific support (must be 'true' or 'false').
+#fix
 cygwin=false
 msys=false
 darwin=false
